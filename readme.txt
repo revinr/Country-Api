@@ -1,6 +1,8 @@
 
 API link    : http://country.io/names.json
 
+Author:Amanol Karim
+
 output link : localhost/CountryApi/index.php 
 
 Details     : Here country data has been fetched from country.io , and we have applied jquery to filter data. 
